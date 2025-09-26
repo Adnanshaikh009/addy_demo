@@ -1,0 +1,14 @@
+ls
+#list all the file
+
+ls -a
+#list all the hidden file 
+
+git status 
+#get status of the code 
+
+git add<-file name->
+#to add a new file in the git 
+
+gti commit -m "some message"
+#the recod of chnage 
