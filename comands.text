@@ -12,3 +12,6 @@ git add<-file name->
 
 gti commit -m "some message"
 #the recod of chnage 
+
+git push 
+#pust the code local to remote 
